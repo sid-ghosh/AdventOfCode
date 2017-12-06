@@ -72,10 +72,7 @@ public class AOCDay1 {
             } catch (IOException ex) {
 
                 ex.printStackTrace();
-
             }
         }
-
-
     }
 }
